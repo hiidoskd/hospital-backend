@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mysitecreated"
+name = "hospital-backend"
 version = "0.1.0"
 description = ""
 authors = ["Yeldar Issa <yeldar.issa@gmail.com>"]
